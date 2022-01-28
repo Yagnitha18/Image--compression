@@ -1,4 +1,4 @@
-# Applications of Principal Component Analysis (PCA)
+#    Applications of Principal Component Analysis (PCA)
 
 - This folder contains the supplementary code to my article [Applications of Principal Component Analysis (PCA)](https://iq.opengenus.org/applications-of-pca/) on OpenGenus IQ.
 
